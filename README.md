@@ -1,6 +1,6 @@
 # Kindle Noodle：四页常亮实验版
 
-基于 [lfssgg/KindleNoodle](https://github.com/lfssgg/KindleNoodle) 的网页副本，来源提交 `7fb3ef607731583129587db7d9e1a43a98dfefcc`。
+基于 [lfssgg/KindleNoodle](https://github.com/lfssgg/KindleNoodle-1) 的网页副本，来源提交 `7fb3ef607731583129587db7d9e1a43a98dfefcc`。
 
 这是纯静态网站，无需 Python、Node.js、数据库或后端 API。新增常亮功能使用相对资源路径，可部署在域名根目录或子目录。
 
